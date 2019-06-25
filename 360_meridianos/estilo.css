@@ -1,0 +1,211 @@
+/*----------------------------------------------------------------------inicio conteudos especiais----------------------------------------------------------------------------*/
+
+.a1{
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+}
+
+.img1{
+    background: greenyellow;
+    height: 450px;
+}
+
+.txt1{
+    background-color:indigo;
+    height: 450px;
+}
+
+.img2{
+    background-color: rgb(141, 165, 32);
+    height: 250px;
+}
+
+.a2{
+    background-color: rgb(3, 141, 3);
+    height: 50px;
+    text-align: center;
+}
+.txt2{
+    background-color: lavender;
+    height: 300px;
+}
+
+.img3{
+    background-color: rgb(32, 105, 165);
+    height: 250px;
+}
+
+.a3{
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+}
+
+.txt3{
+    background-color: rgb(74, 74, 233);
+    height: 300px;
+}
+
+.b1{
+    background-color: rgb(77, 75, 74);
+    height: 75px;
+    width: 390px;
+    text-align: center;
+}
+/*----------------------------------------------------------------------fim conteudos especiais----------------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------------inicio  artigos---------------------------------------------------------------------------------*/
+.a4{
+    background-color: blueviolet;
+    height: 100px;
+    text-align: center;
+}
+
+.img4{
+    background-color: rgb(141, 165, 32);
+    height: 250px;
+}
+
+.a5{
+    background-color: rgb(3, 141, 3);
+    height: 50px;
+    text-align: center;
+}
+
+.txt5{
+    background-color: lavender;
+    height: 300px;
+}
+
+.img5{
+    background-color: rgb(181, 216, 27);
+    height: 250px;
+}
+
+.a6{
+    background-color: rgb(3, 141, 3);
+    height: 50px;
+    text-align: center;
+}
+
+.txt6{
+    background-color: rgb(125, 125, 180);
+    height: 300px;
+}
+
+.img6{
+    background-color: rgb(141, 165, 32);
+    height: 250px;
+}
+
+.a7{
+    background-color: rgb(3, 141, 3);
+    height: 50px;
+    text-align: center;
+}
+
+.txt7{
+    background-color: lavender;
+    height: 300px;
+}
+
+.b2{
+    background-color: rgb(77, 75, 74);
+    height: 75px;
+    width: 390px;
+    text-align: center;
+}
+/*-------------------------------------------------------------------------fim artigos---------------------------------------------------------------------------------*/
+
+/*----------------------------------------------------------------------inicio atlas 360-------------------------------------------------------------------------------*/
+.img7{
+    background-color: rgb(114, 48, 15);
+    height: 500px;
+}
+
+.txt8{
+    background-color: rgb(184, 86, 37);
+    height: 500px;
+}
+
+.b3{
+    background-color: rgb(77, 75, 74);
+    height: 75px;
+    width: 390px;
+    text-align: center;
+}
+/*------------------------------------------------------------------------fim atlas 360-------------------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------------inicio login--------------------------------------------------------------------------------*/
+.a8{
+    background-color: rgb(73, 74, 77);
+    height: 120px;
+    text-align: center;
+}
+
+.img8{
+    background-color: lightyellow;
+    height: 500px;
+}
+
+.login{
+    background-color: yellow;
+    height: 500px;
+}
+/*--------------------------------------------------------------------------fim login---------------------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------inicio dicas de viagem---------------------------------------------------------------------------*/
+
+.a9{
+    background-color: rgb(73, 74, 77);
+    height: 120px;
+    text-align: center;
+}
+
+.img9{
+    background-color: rgb(61, 88, 168);
+    height: 225px;
+}
+
+.txt9{
+    background-color: rgb(89, 124, 228);
+    height: 225px;
+}
+
+.img10{
+    background-color: rgb(4, 24, 85);
+    height: 225px;
+}
+
+.txt10{
+    background-color: rgb(121, 137, 185);
+    height: 225px;
+}
+
+.img11{
+    background-color: rgb(61, 88, 168);
+    height: 225px;
+}
+
+.txt11{
+    background-color: rgb(29, 37, 59);
+    height: 225px;
+}
+
+.img12{
+    background-color: rgb(29, 46, 97);
+    height: 225px;
+}
+
+.txt12{
+    background-color: rgb(67, 92, 167);
+    height: 225px;
+}
+
+.b4{
+    background-color: rgb(77, 75, 74);
+    height: 75px;
+    width: 390px;
+    text-align: center;
+}
